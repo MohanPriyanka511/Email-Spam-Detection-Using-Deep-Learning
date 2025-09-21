@@ -19,7 +19,7 @@ Dataset: https://www.kaggle.com/datasets/balaka18/email-spam-classification-data
 
 ---
 
-<img width="1920" height="971" alt="Screenshot 2025-09-21 221935" src="https://github.com/user-attachments/assets/2cca261e-6de0-4786-95a1-9128bc92167e" />
+<img width="1920" height="979" alt="Screenshot 2025-09-21 221859" src="https://github.com/user-attachments/assets/b1b43a19-fbfa-430e-8d07-95b196a7ba4d" />
 
 
 <img width="1920" height="971" alt="Screenshot 2025-09-21 221935" src="https://github.com/user-attachments/assets/1b9ae8dd-d8c8-49ff-b0c7-bc9d8645d84c" />

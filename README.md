@@ -4,6 +4,9 @@ A **real-time email spam detection web application** built with **Python**, **Te
 
 ---
 
+Dataset: https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
+
+---
 ## 🔹 Features
 
 - **Real-time Email Prediction**: Enter any email text to check if it’s spam or ham.  
